@@ -1,0 +1,118 @@
+#panel {
+  background-color: #1d0016;
+  color: #fccef1;
+}
+
+.modal-dialog {
+  background-color: #3b2836;
+  color: #fccef1;
+}
+
+.workspace-animation,
+.popup-sub-menu,
+#lockDialogGroup,
+#overviewGroup {
+  background-color: #3b2836;
+}
+
+.window-caption,
+.window-close {
+  background-color: #3b2836;
+  border-color: #33252f;
+}
+
+.login-dialog .modal-dialog-button,
+.unlock-dialog .modal-dialog-button {
+  background-color: #1d0016;
+  border-color: #33252f;
+}
+
+.app-well-app.app-folder {
+  background-color: #3f2d3a;
+  border-color: #33252f;
+}
+
+.app-folder-dialog {
+  background-color: #2e0324;
+  border-color: #33252f;
+}
+
+.grid-search-result .overview-icon,
+.app-well-app .overview-icon {
+  color: #fccef1;
+}
+
+.calendar,
+.message,
+.events-button,
+.world-clocks-button,
+.search-entry,
+.dash-background,
+.search-section-content,
+.weather-button {
+  background-color: #1d0016;
+  border-color: #33252f;
+  color: #fccef1;
+}
+
+
+.calendar .calendar-day-base:hover,
+.calendar .calendar-day-base:focus,
+.calendar .calendar-day-base:active,
+.calendar .calendar-day-base:selected {
+  background-color: #3b2836;
+}
+
+.calendar .calendar-today {
+  background-color: #3b2836;
+}
+
+.calendar .calendar-today:hover,
+.calendar .calendar-today:focus,
+.calendar .calendar-today:active,
+.calendar .calendar-today:selected {
+  background-color: #5f3252;
+}
+
+.calendar .calendar-today:active:hover,
+.calendar .calendar-today:active:focus,
+.calendar .calendar-today:selected:hover,
+.calendar .calendar-today:selected:focus {
+  background-color: #753864;
+}
+
+
+.workspace-switcher-container,
+.switcher-list,
+.resize-popup,
+.osd-window {
+  background-color: #3b2836;
+  color: #fccef1;
+  border-color: #33252f;
+}
+
+.app-folder-dialog .folder-name-container .edit-folder-button,
+.button {
+  background-color: #3b2836;
+  color: #fccef1;
+  border-color: #33252f;
+}
+
+.popup-separator-menu-item .popup-separator-menu-item-separator {
+  background-color: #1d0016;
+
+}
+
+.modal-dialog .modal-dialog-linked-button,
+.hotplug-notification-item,
+.notification-banner .notification-button {
+  background-color: #3b2836;
+  color: #fccef1;
+  border-color: #33252f;
+}
+
+.popup-menu-boxpointer,
+.candidate-popup-boxpointer {
+  -arrow-background-color: #3b2836;
+  -arrow-border-color: #33252f;
+}
